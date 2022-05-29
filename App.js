@@ -48,11 +48,6 @@ buttonImageIconStyle:{
   resizeMode:'stretch',
   alignContent:'center'
 },
-buttonIconSeparatorStyle:{
-  backgroundColor:'#fff',
-  width:1,
-  height:40
-},
 buttonTextStyle:{
   color:'#fff',
   marginBottom:4,
